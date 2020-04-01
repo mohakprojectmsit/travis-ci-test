@@ -26,4 +26,4 @@ deploy:
   keep-history: true
   local-dir: ./dist/travis
   on:
-    branch: master
+    branch: gh-pages
