@@ -22,5 +22,5 @@ script:
 deploy:
   provider: pages
   github-token: $GITHUB_TOKEN
-  local-dir: ./dist/travis
+  local-dir: ./dist/travis/
   on:
