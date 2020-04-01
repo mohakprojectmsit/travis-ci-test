@@ -8,9 +8,6 @@ branches:
   only:
     - master
 
-addons:
-  chrome: stable
-
 before_script:
   - npm i -g @angular/cli
 
