@@ -24,4 +24,4 @@ deploy:
   github-token: $GITHUB_TOKEN
   local-dir: ./dist/travis
   on:
-    branch: gh-pages
+    branch: master
